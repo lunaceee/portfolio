@@ -12,24 +12,24 @@
       >
       <article class="p-4">
         <p>
-          Codame is a non-profit organization who has been supporting and
-          advocating for the art + tech community since a decade ago.
+          Codame is a non-profit organization that has been supporting and
+          advocating for the art + tech community for over a decade.
         </p>
         <p>
-          With the ever evolving content and initiatives, Codame's founding team
-          is committed to redesign and rearchitect the online presence to
-          improve the user experience and internal workflow. I've always been
-          wanting to leverage technology to empower creative expressions. Hence,
-          I decided to take on the challenge to lead the project.
+          With ever-evolving content and initiatives, Codame's founding team is
+          committed to redesign and rearchitect the online presence to improve
+          the user experience and internal workflow. Since leveraging technology
+          to empower creative expression has always been one of my passions, I
+          decided to take on the challenge to lead the project.
         </p>
         <br />
         <p>
           Currently, codame.com is a custom built dynamic site using PHP for the
-          frontend view and backend CMS editor. It served the purpose back then
-          but the layout and workflow is no longer feasible for the content and
-          functionalities. My plan is to use
+          frontend view and backend CMS editor. It has served its purpose until
+          now, but the layout and workflow is no longer feasible for the content
+          and desired new features. My plan is to use
           <a href="https://jamstack.org/">Jamstack</a> to decouple the view and
-          the backend. The suitable candidates would be
+          the backend. Currently, candidate tools are being evaluated:
           <a href="https://www.gatsbyjs.com/">Gatsby</a> or
           <a href="https://nextjs.org/">Next.js</a> for the frontend, and
           Sanity.io or <a href="https://strapi.io/">Strapi</a> as the CMS
@@ -37,18 +37,18 @@
         </p>
         <br />
         <p>
-          I started out laying out the project with a
+          I drafted a layout of the project with a
           <a href="https://www.notion.so/">Notion</a> doc, and ran through a
           branding audit with the key stakeholders, to agree on the brand
           architecture and design elements. I then sketched out the new
-          information architecture based on the main content and
-          functionalities.
+          information architecture based on the main content and desired
+          features.
         </p>
         <br />
         <p>
           I used Balsalmic for the low fidelity wireframes. I decided to use
           Material's design system as a framework for Codame's design system,
-          and moved onto Figma for the high fidelity mockups and a clickable
+          and moved on to Figma for the high fidelity mockups and a clickable
           prototype.
         </p>
       </article>
@@ -85,13 +85,15 @@
         >
           <article class="mb-4">
             <p>
-              Cuttle is a light weight video annotator built on top of Vue,
-              video.js, Vimeo Player API, Firebase and Tailwind CSS.
+              Cuttle is a lightweight video annotator built on top of Vue,
+              Video.js, Vimeo Player API, Firebase and Tailwind CSS. Users can
+              add textual notes at any point in time for their favourite YouTube
+              and Vimeo videos.
             </p>
             <br />
             <p>
-              The name Cuttle, is originally inspired by Cuttlefish, which
-              symbolizes flexibility, creativity and intelligence.
+              Cuttle takes its name from cuttlefish, a relative of squid and
+              octopus, and symbolizes flexibility, creativity and intelligence.
             </p>
           </article>
           <div class="flex flex-row gap-x-6 items-center">
@@ -223,7 +225,7 @@
           class="p-8 bg-teal-100 rounded-tl-xl border-2 border-teal-300 rounded-br-xl lg:my-0"
         >
           <p>
-            I joined Netlify at early stage. As one of the three front end
+            I joined Netlify at an early stage. As one of the three front end
             engineers, I helped build features for Netlify's developer admin
             interface, particularly for Forms, Functions, Identity and Large
             Media features.
